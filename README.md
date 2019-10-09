@@ -12,7 +12,7 @@ Depends on [jQuery](http://jquery.com/download/)
 
 Get a copy of psyduck.js
 
-Add the atribute `psyduck-event` to the trigger element and choose between `click` or `change` depending on your needs.
+Add the atribute `psyduck-event` to the trigger element and choose between `click` or `change` depending on what you need.
 
 ```html
 <div psyduck-event="click"></div>
