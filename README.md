@@ -27,7 +27,7 @@ Add the `duck` action to the trigger element and pass in the duck-attribute valu
 
 ## Include psyduckjs in your project
 
-Im only allowing download and include psyduckjs, soon cdn will be available
+I'm only allowing download and include psyduckjs, soon cdn will be available
 
 ```html
 <script src="jquery.js"></script>
